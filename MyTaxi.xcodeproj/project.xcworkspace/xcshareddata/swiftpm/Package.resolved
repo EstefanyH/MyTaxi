@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "loginmodule",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EstefanyH/LoginModule.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b4924357f5b996b02ddd8e9bdfcdeb0c869c6f85"
+      }
+    }
+  ],
+  "version" : 2
+}
